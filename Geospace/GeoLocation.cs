@@ -8,9 +8,11 @@ namespace Geospace
 {
     public class GeoLocation
     {
+        public int MyProperty { get; set; }
+
         public static void location()
         {
-            //public int MyProperty { get; set; }
         }
     }
-}
+    }
+}   
