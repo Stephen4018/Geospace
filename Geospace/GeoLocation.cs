@@ -12,7 +12,8 @@ namespace Geospace
 
         public static void location()
         {
+            //const DataMisalignedException = new 
         }
     }
-    }
-}   
+}
+   
