@@ -196,27 +196,6 @@ class Program
         public string Org { get; set; }
         public string Timezone { get; set; }
     }
-
-    //private async static string GetLocation()
-    //{
-    //    string token = "e310b1062b370b";
-    //    IPinfoClient client = new IPinfoClient.Builder()
-    //        .AccessToken(token)
-    //        .Build();
-
-    //    //string ip = "216.239.36.21";
-
-    //    string ip = "216.239.36.21";
-    //    IPResponse ipResponse = await client.IPApi.GetDetailsAsync(ip);
-
-    //    return ipResponse;
-    //}
-
-
-
-
-
-
 }
 
 
